@@ -1,4 +1,4 @@
-# Análise de Crescimento de Vendas
+# [Iniciante] Análise de Crescimento de Vendas
 Este programa recebe três listas:
 
 1. Lista de produtos;
